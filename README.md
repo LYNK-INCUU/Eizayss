@@ -12,16 +12,16 @@ Work in Progres.
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [2] ###
+[2.0]
 - Updated mods
 - Latest forge build
 
-## [1.2.6] ###
+[1.2.6]
 Added
 - Updated to forge 36.2.2
 - Updated mods
 
-## [1.2.5] ###
+[1.2.5]
 Added
 - Difficulty based on the moon phase.
 ### Changed
