@@ -1,0 +1,353 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = minecraftyoutube
+  action = animatebackground
+}
+
+customization {
+  path = epicbattlemusic.wav
+  loop = false
+  action = addaudio
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = top-left
+  x = 193
+  action = movebutton
+  y = 195
+}
+
+customization {
+  identifier = %id=400322%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = Online
+}
+
+customization {
+  identifier = %id=400322%
+  seconds = 4.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttondescription
+  description = Perhaps with frens...
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = top-left
+  x = 812
+  action = movebutton
+  y = 498
+}
+
+customization {
+  identifier = %id=604382%
+  seconds = 5.1
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = top-left
+  x = 193
+  action = movebutton
+  y = 241
+}
+
+customization {
+  identifier = %id=400382%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=400382%
+  seconds = 4.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = bottom-right
+  x = -102
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = I'M SO DONE! REEEE
+}
+
+customization {
+  identifier = %id=502382%
+  seconds = 5.3
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = bottom-right
+  x = -125
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=376382%
+  seconds = 5.2
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = top-left
+  x = 193
+  action = movebutton
+  y = 172
+}
+
+customization {
+  identifier = %id=400298%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  action = sethoverlabel
+  label = hehe te nanda yo
+}
+
+customization {
+  identifier = %id=400298%
+  seconds = 4.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttondescription
+  description = Ready to SUFFER? %playername%
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = top-left
+  x = 193
+  action = movebutton
+  y = 218
+}
+
+customization {
+  identifier = %id=400346%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  seconds = 4.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = bottom-right
+  x = -148
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=376346%
+  seconds = 5.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ff7ae9
+  shadow = true
+  delayappearanceseconds = 3.0
+  rotation = 10.0
+  scale = 1.5
+  refresh = false
+  bouncing = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 455
+  actionid = 5923354f-4ea5-41c6-8f46-658d9f5b107e1627574063030
+  action = addsplash
+  y = 32
+  delayappearance = true
+  text = I'll kill you in Minecraft.
+  delayappearanceeverytime = true
+}
+
+customization {
+  orientation = top-left
+  delayappearanceseconds = 4.3
+  slim = false
+  scale = 40
+  showname = true
+  crouching = false
+  capeurl = https://optifine.net/capes/LunarKairos.png
+  x = 333
+  actionid = 70ac29d1-e689-4086-a7ef-f0deab40a4d81627574108040
+  action = addentity
+  y = 276
+  delayappearance = true
+  playername = %playername%
+  parrot = true
+  delayappearanceeverytime = false
+}
+
+customization {
+  orientation = top-left
+  shadow = true
+  delayappearanceseconds = 2.5
+  scale = 1.0
+  fadein = true
+  fadeinspeed = 1.0
+  x = 1
+  action = addtext
+  actionid = 292aa93c-1b89-4f64-b4fc-dd04dda29b521627574740363
+  y = 339
+  delayappearance = true
+  alignment = left
+  value = Kairos brought you a cursed game...
+  delayappearanceeverytime = true
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  delayappearanceseconds = 5.0
+  scale = 1.0
+  fadein = true
+  fadeinspeed = 1.0
+  x = 1
+  action = addtext
+  actionid = 89fb613b-45f1-40a0-909f-6437fa2b21051627574761312
+  y = 349
+  delayappearance = true
+  alignment = left
+  value = Total Mods: %totalmods%
+  delayappearanceeverytime = false
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  delayappearanceseconds = 5.0
+  scale = 1.0
+  fadein = true
+  fadeinspeed = 1.0
+  x = 1
+  action = addtext
+  actionid = 5ed7b3e1-78b4-428e-ad5f-d82901596dd21627574778803
+  y = 359
+  delayappearance = true
+  alignment = left
+  value = Loaded Mods: %loadedmods%
+  delayappearanceeverytime = false
+}
+
+customization {
+  orientation = top-left
+  delayappearanceseconds = 4.0
+  buttonaction = openlink
+  description = Cabbit lives here!
+  label = Discord
+  clicksound = WOW.wav
+  hoverlabel = UwU Feet Pics?
+  fadein = true
+  fadeinspeed = 1.0
+  x = 193
+  width = 100
+  actionid = dca0cc8e-0e35-428a-afad-0565a3012e6e1628972298337
+  action = addbutton
+  y = 264
+  delayappearance = true
+  value = https://discord.gg/57D9WjKcwX
+  delayappearanceeverytime = false
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  delayappearanceseconds = 4.0
+  scale = 1.0
+  fadein = true
+  fadeinspeed = 1.0
+  x = 90
+  action = addtext
+  actionid = 6f7b391c-eae1-4c27-9be4-2393ea2187521627575855632
+  y = 349
+  delayappearance = true
+  alignment = left
+  value = Forge %version:forge%
+  delayappearanceeverytime = false
+}
+

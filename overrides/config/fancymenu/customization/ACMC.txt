@@ -1,0 +1,213 @@
+type = menu
+
+customization-meta {
+  identifier = com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  minimummcversion = 1.16.5
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = minecraftyoutube
+  action = animatebackground
+}
+
+customization {
+  path = 2 Hours Mix  Worlds Most Powerful  Epic  Battle Music Collection Vol2.wav
+  loop = true
+  action = addaudio
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = top-left
+  x = 119
+  action = movebutton
+  y = 184
+}
+
+customization {
+  identifier = %id=400322%
+  width = 130
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  seconds = 5.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = mid-right
+  x = -94
+  action = movebutton
+  y = 160
+}
+
+customization {
+  identifier = %id=604382%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = top-centered
+  x = -201
+  action = movebutton
+  y = 228
+}
+
+customization {
+  identifier = %id=400382%
+  width = 131
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  seconds = 5.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = top-centered
+  x = 250
+  action = movebutton
+  y = 352
+}
+
+customization {
+  identifier = %id=502382%
+  width = 66
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-left
+  x = 520
+  action = movebutton
+  y = 160
+}
+
+customization {
+  identifier = %id=376382%
+  width = 22
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376382%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -201
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=400298%
+  width = 130
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  seconds = 5.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -201
+  action = movebutton
+  y = 14
+}
+
+customization {
+  identifier = %id=400346%
+  width = 130
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  seconds = 5.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = top-left
+  x = 497
+  action = movebutton
+  y = 352
+}
+
+customization {
+  orientation = top-left
+  delayappearanceseconds = 6.0
+  slim = false
+  scale = 40
+  showname = false
+  crouching = false
+  x = 36
+  actionid = c65c78ff-7c07-4887-b29a-be687ac533231627572462764
+  action = addentity
+  y = 372
+  delayappearance = true
+  playername = %playername%
+  parrot = true
+  delayappearanceeverytime = false
+}
+
