@@ -4,7 +4,15 @@ This is a community pack for Alpha Coven featuring Magick, Dungeons, Bosses, New
 Exploration all around this hellish world where u might die from unknown beings that will haunt you in your sleep...
 
 # About
+https://www.curseforge.com/minecraft/modpacks/eizayss/files
+This is a community pack for Alpha Coven featuring Magick, Dungeons, Bosses, New biomes to explore and a lot more!
+Exploration all around this hellish world where u might die from unknown beings that will haunt you in your sleep...
 
+Be rewarded for your exploration with unique Artifacts that can be found in dungeons, buried treasure, end cities.
+Stunning new biomes with BYG, Atmospheric, Environmental, and more!.
+Create fully automatic factories via Mekanism & Immersive Engineering,
+Occult and Magic based mods. Summon your own entities, become a powerful mage.
+Have your own dragon and more!
 
 # Wiki
 Work in Progres.
